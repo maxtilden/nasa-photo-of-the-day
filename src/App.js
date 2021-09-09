@@ -13,3 +13,5 @@ function App() {
 }
 
 export default App;
+//this is just my intial commit, I will be completing the assignment tomorrow
+//remeber to download axios and npm install/ start
